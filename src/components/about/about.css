@@ -6,7 +6,6 @@
 }
 .card-img-top{
     width: fit-content;
-    height: fit-content;
 }
 .card{
     flex: 0 0 calc(33.33% - 10px);
