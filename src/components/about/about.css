@@ -17,5 +17,5 @@
     align-items: center;
 }
 .btn{
-    width: 50%;
+    width: fit-content;
 }
